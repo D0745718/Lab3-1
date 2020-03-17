@@ -2,8 +2,7 @@
 public class LabThree {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-        System.out.println("Hello OOP");
+            System.out.println("Hello Word");
 	}
 
 }
